@@ -9,7 +9,9 @@ a,li{
     text-decoration: none;
     list-style-type: none;
 }
-
+.logo{
+    line-height: 1.17
+}
 .logo .logo-web {
 font-weight: 700;
 font-size: 18px;
@@ -46,7 +48,7 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 }
 .address ,
-.address .link {
+.link {
     font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.02em;
