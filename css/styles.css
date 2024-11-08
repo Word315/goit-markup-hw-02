@@ -62,7 +62,7 @@ color: #2e2f42;
     background-color: #2e2f42;
 }
 
-.hd-1{
+.head-1{
 
     font-weight: 700;
 font-size: 56px;
@@ -95,7 +95,7 @@ cursor: pointer
 .main-section-third {
     background: #f4f4fd;
 }
-.hd-2{
+.head-2{
     font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
@@ -108,7 +108,7 @@ text-transform: capitalize
 background: #fff;
     
 }
- .hd-3{
+ .head-3{
     font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
